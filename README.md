@@ -18,11 +18,13 @@ I do the best I can  with data that already exists.
 
 * Use round numbers when they are not precise, like with surveys.
 
+* Example: "about 560,000" instead of "an estimated 560,042 with a margin of error 580."
+
 ## 3. A data set is a source: Interrogate it long enough and it'll tell you anything you want to know
 
 * Sometimes your data don't know the answer to your question
 
-* I.E. FBI Hate Crime data
+* I.E. FBI Hate Crime data. The story that wasn't.
 
 * https://trendct.org/2016/11/21/connecticut-saw-a-drop-in-reports-of-hate-crime-incidents-in-2015/
 
