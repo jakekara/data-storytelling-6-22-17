@@ -1,6 +1,6 @@
 ## 0. Intro
 
-I am Jake. I'm a pessimist.
+I am Jake. I'm a ~~pessimist~~ skeptic.
 
 ## 1. Numbers are super convincing
 
@@ -16,7 +16,9 @@ I am Jake. I'm a pessimist.
 
 * Use round numbers when they are not precise, like with surveys.
 
-## 3. Data is a source: Interrogate it hard enough and it'll tell you anything you want to know
+## 3. A data set is a source: Interrogate it long enough and it'll tell you anything you want to know
+
+* Sometimes your data don't know the answer to your question
 
 * I.E. FBI Hate Crime data
 
