@@ -1,6 +1,16 @@
-1. Data is super convincing, 
+## 0. Intro
 
-2. so treat that power responsibly
+I am Jake. I'm a pessimist.
+
+## 1. Data is super convincing
+
+"Poverty dropped from 20% to 18%" is Woah! but accurate? 
+
+"Poverty might have dropped or gone up" is accurate, but meh.
+
+## 2. ... so treat that power responsibly
+
+
 
 3. Sometimes the data don’t support the questions you have. You can either get better data or settle for different questions.
 
