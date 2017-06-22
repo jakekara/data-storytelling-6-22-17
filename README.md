@@ -30,8 +30,8 @@ I do the best I can  with data that already exists.
 
 * I.E. FBI Hate Crime data. The story that wasn't.
   - Headline 1: "U.S. Hate Crimes Surge 6%, Fueled by Attacks on Muslims", Nov. 14, 2016 -NYT Washington Bureau reporter
-- Headline 2: "FBI: Hate Crime Went Up 6.8 Percent In 2015; Anti-Muslim Incidents Surge To Second Highest Ever" - Huffpo
-- Headline 3: "Hate crimes against Muslims in the US rose 67% last year, according to new FBI statistics" _ Quartz
+  - Headline 2: "FBI: Hate Crime Went Up 6.8 Percent In 2015; Anti-Muslim Incidents Surge To Second Highest Ever" - Huffpo
+  - Headline 3: "Hate crimes against Muslims in the US rose 67% last year, according to new FBI statistics" _ Quartz
 
 * https://trendct.org/2016/11/21/connecticut-saw-a-drop-in-reports-of-hate-crime-incidents-in-2015/
 
