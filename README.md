@@ -14,7 +14,7 @@ I am Jake. I'm a pessimist.
 
 * Use round numbers when they are not precise, like with surveys.
 
-3. Sometimes the data don’t support the questions you have. You can either get better data or settle for different questions.
+## 3. Data is a source: Interigate it hard enough and it'll tell you anything you want to know
 
 IE FBI Hate Crime data
 
