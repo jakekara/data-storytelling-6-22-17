@@ -34,11 +34,11 @@ I do the best I can  with data that already exists.
 
 # THE VIZ PART
 
-## 4. Sometimes the story is simple:
+## 4. Sometimes the story is simple
 
 * https://trendct.org/2017/06/16/latest-house-price-index-connecticut-growth-continues-to-lag/
 
-## 5. Sometimes the data is so complex, you need to make sense of it
+## 5. Sometimes the data is so complex, you just need to immerse audience in it
 
 * https://projects.ctmirror.org/content/trend/2017/02/pretrial-outflow/
 
