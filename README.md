@@ -4,7 +4,7 @@ I am Jake. I'm a ~~pessimist~~ skeptic.
 
 ## 1. Numbers are super convincing
 
-* Headline: "Poverty dropped from 20% to 18%" is Woah! but accurate? 
+* Headline: "Poverty dropped from 20% to 18%" is Woah! but accurate? What about a +/-2 margin of error?
 
 * Headline 2: "Poverty might have dropped or gone up" is accurate, but meh.
 
