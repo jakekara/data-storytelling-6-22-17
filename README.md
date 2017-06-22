@@ -24,11 +24,15 @@ I do the best I can  with data that already exists.
 
 * Sometimes your data don't know the answer to your question
 
+* I.E. election polling on numbers blogs, versus general-audience stories.
+
 * I.E. FBI Hate Crime data. The story that wasn't.
 
 * https://trendct.org/2016/11/21/connecticut-saw-a-drop-in-reports-of-hate-crime-incidents-in-2015/
 
 * Comey: "We need to do a better job of tracking and reporting hate crime to fully understand what is happening in our communities and how to stop it."
+
+# THE VIZ PART
 
 ## 4. Sometimes the story is simple:
 
