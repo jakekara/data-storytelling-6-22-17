@@ -16,7 +16,7 @@ I am Jake. I'm a pessimist.
 
 * Use round numbers when they are not precise, like with surveys.
 
-## 3. Data is a source: Interigate it hard enough and it'll tell you anything you want to know
+## 3. Data is a source: Interrogate it hard enough and it'll tell you anything you want to know
 
 * I.E. FBI Hate Crime data
 
