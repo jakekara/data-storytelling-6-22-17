@@ -40,6 +40,8 @@ I do the best I can  with data that already exists.
 
 ## 5. Sometimes the data is so complex, you just need to immerse audience in it
 
+( Or just the important part of it )
+
 * https://projects.ctmirror.org/content/trend/2017/02/pretrial-outflow/
 
 * https://trendct.org/2017/02/22/in-connecticut-a-formula-helps-make-bail-decisions/
