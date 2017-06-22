@@ -4,6 +4,8 @@ I am Jake. I'm a ~~pessimist~~ skeptic.
 
 I do the best I can  with data that already exists.
 
+# THE DATA LIMITATIONS PART
+
 ## 1. Numbers are super convincing
 
 * Headline: "Poverty dropped from 20% to 18%" is Woah! but accurate? What about a +/-2 margin of error?
