@@ -16,9 +16,9 @@ I am Jake. I'm a pessimist.
 
 ## 3. Data is a source: Interigate it hard enough and it'll tell you anything you want to know
 
-IE FBI Hate Crime data
+* I.E. FBI Hate Crime data
 
-https://trendct.org/2016/11/21/connecticut-saw-a-drop-in-reports-of-hate-crime-incidents-in-2015/
+* https://trendct.org/2016/11/21/connecticut-saw-a-drop-in-reports-of-hate-crime-incidents-in-2015/
 
 Comey: “We need to do a better job of tracking and reporting hate crime to fully understand what is happening in our communities and how to stop it.”
 
