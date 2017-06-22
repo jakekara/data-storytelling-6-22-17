@@ -2,15 +2,17 @@
 
 I am Jake. I'm a pessimist.
 
-## 1. Data is super convincing
+## 1. Numbers are super convincing
 
-"Poverty dropped from 20% to 18%" is Woah! but accurate? 
+* Headline: "Poverty dropped from 20% to 18%" is Woah! but accurate? 
 
-"Poverty might have dropped or gone up" is accurate, but meh.
+* Headline 2: "Poverty might have dropped or gone up" is accurate, but meh.
 
 ## 2. ... so treat that power responsibly
 
+* Headline 3: "One in five still below poverty line"
 
+* Use round numbers when they are not precise, like with surveys.
 
 3. Sometimes the data don’t support the questions you have. You can either get better data or settle for different questions.
 
